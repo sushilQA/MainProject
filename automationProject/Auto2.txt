@@ -1,0 +1,17 @@
+{
+    "code": 200,
+    "status": 1,
+    "message": "",
+    "data": {
+        "accessToken": "9ca9b75f9f13216e746811467eee7010d667df98",
+        "email": "test13101098@yopmail.com",
+        "userId": "13101098",
+        "name": "Sai Teja",
+        "mobile": "9999999999",
+        "collegeId": "442",
+        "roleId": "9",
+        "uniqueId": "2abc93b2-f1d6-4f01-aa17-d0c17712559f",
+        "deviceId": "Oppo A1",
+        "environment": ""
+    }
+}

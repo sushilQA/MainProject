@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;getCounsellorProductivityReport.json&apos; to &apos;Npf_Backend_Gateway/src/test/java/org.testing.resources&apos;&#x0D;&#x0A;- Original project: &apos;Npf_Backend_Gateway&apos;&#x0D;&#x0A;- Destination element: &apos;Npf_Backend_Gateway/src/test/java/org.testing.resources&apos;&#x0D;&#x0A;- Original element: &apos;getCounsellorProductivityReport.json&apos;" description="Copy file" destination="/src\/test\/java&lt;org.testing.resources" element1="src/test/java/org/testing/resources/getCounsellorProductivityReport.json" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1668338684992" units="0" version="1.0"/>
+</session>

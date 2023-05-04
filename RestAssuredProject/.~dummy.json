@@ -1,0 +1,49 @@
+{
+  "APIFOLKS": [
+    {
+      "qry_u_id": "id",
+      "qry_ud_name": "QAtest",
+      "qry_u_email": "Qatest@yopmail.com",
+      "qry_u_mobile_no": "mobile_no",
+      "qry_u_status": "status",
+      "qry_u_country_dialcode": "country_dialcode",
+      "qry_u_mobile_verified": "mobile_verified",
+      "qry_u_email_verified": "email_verified",
+      "qry_u_lead_score": "lead_score",
+      "qry_u_final_register_date": "final_register_date",
+      "qry_acd_last_reg_attempt_date": "last_reg_attempt_date",
+      "qry_ud_lead_stage": "lead_stage",
+      "qry_u_parent_admin_id": "parent_admin_id",
+      "qry_u_campaign_status": "campaign_status",
+      "qry_u_form_initiated": "form_initiated",
+      "id": 1
+    },
+    {
+      "APIFOLKS": [
+        {
+          "qry_u_parent_admin_id": "parent_admin_id",
+          "qry_u_status": "status",
+          "qry_u_campaign_status": "campaign_status",
+          "qry_u_email": "Qatest@yopmail.com",
+          "qry_ud_name": "QAtest",
+          "qry_u_mobile_verified": "mobile_verified",
+          "qry_u_country_dialcode": "country_dialcode",
+          "qry_u_final_register_date": "final_register_date",
+          "qry_u_email_verified": "email_verified",
+          "qry_u_lead_score": "lead_score",
+          "qry_u_form_initiated": "form_initiated",
+          "qry_u_mobile_no": "mobile_no",
+          "qry_u_id": "id",
+          "id": 1,
+          "qry_acd_last_reg_attempt_date": "last_reg_attempt_date",
+          "qry_ud_lead_stage": "lead_stage"
+        }
+      ],
+      "mobileAutomationFolks": [],
+      "SUSHIL": [],
+      "id": 2
+    }
+  ],
+  "mobileAutomationFolks": [],
+  "SUSHIL": []
+}

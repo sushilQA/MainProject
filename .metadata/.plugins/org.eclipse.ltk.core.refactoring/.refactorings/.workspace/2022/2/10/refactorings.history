@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GmailFramwork&apos; to &apos;Nopaperforms.com&apos;" description="Rename resource &apos;GmailFramwork&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/GmailFramwork" name="Nopaperforms.com" stamp="1645961061832" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AssertVsVerify.java&apos; to &apos;SeleniumProject/src/test/java/SeleniumProject.SeleniumProject&apos;&#x0D;&#x0A;- Original project: &apos;JavaSeleniumTestNG&apos;&#x0D;&#x0A;- Destination element: &apos;SeleniumProject/src/test/java/SeleniumProject.SeleniumProject&apos;&#x0D;&#x0A;- Original element: &apos;AssertVsVerify.java&apos;" description="Copy compilation unit" destination="=SeleniumProject/src\/test\/java&lt;SeleniumProject.SeleniumProject" element1="/src&lt;{AssertVsVerify.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1677583168478" units="1" version="1.0"/>
+</session>

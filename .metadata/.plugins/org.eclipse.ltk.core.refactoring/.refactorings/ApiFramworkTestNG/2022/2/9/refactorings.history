@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Conversion.java&apos; to &apos;ApiFramwork/src/test/java/org.testing.utilities&apos;&#x0D;&#x0A;- Original project: &apos;ApiFramworkTestNG&apos;&#x0D;&#x0A;- Destination element: &apos;ApiFramwork/src/test/java/org.testing.utilities&apos;&#x0D;&#x0A;- Original element: &apos;org.testing.utilities.Conversion.java&apos;" description="Copy compilation unit" destination="=ApiFramwork/src\/test\/java&lt;org.testing.utilities" element1="/src\/test\/java&lt;org.testing.utilities{Conversion.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1645336933127" units="1" version="1.0"/>
+</session>

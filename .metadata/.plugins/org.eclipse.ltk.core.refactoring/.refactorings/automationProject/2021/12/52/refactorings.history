@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;automationProject.StringReverse.java&apos; to &apos;StringMethods.java&apos;&#x0D;&#x0A;- Original project: &apos;automationProject&apos;&#x0D;&#x0A;- Original element: &apos;automationProject.StringReverse.java&apos;&#x0D;&#x0A;- Renamed element: &apos;automationProject.StringMethods.java&apos;" description="Rename compilation unit &apos;StringReverse.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;automationProject{StringReverse.java" name="StringMethods.java" references="false" stamp="1640405439733" version="1.0"/>
+</session>

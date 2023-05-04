@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;YTFramwork&apos; to &apos;YTFramework&apos;" description="Rename resource &apos;YTFramwork&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/YTFramwork" name="YTFramework" stamp="1679722682444" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;FacebookFramwork&apos; to &apos;FacebookFramework&apos;" description="Rename resource &apos;FacebookFramwork&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/FacebookFramwork" name="FacebookFramework" stamp="1679723537638" updateReferences="true"/>
+</session>
